@@ -1,0 +1,14 @@
+{
+  "splitStorage": true,
+  "files": {
+    "management": "management.json",
+    "clients": "clients.json",
+    "staff": "staff.json",
+    "flags": "flags.json",
+    "venues": "venues.json",
+    "plans": "plans.json",
+    "planChanges": "planChanges.json",
+    "orders": "orders.json",
+    "logs": "logs.json"
+  }
+}

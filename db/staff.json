@@ -1,0 +1,121 @@
+{
+  "staff": [
+    {
+      "id": "nmu9om021cgm",
+      "name": "곽영범",
+      "branch": "광주",
+      "login": "delivery01",
+      "password": "delivery01",
+      "phone": "010-2165-7876",
+      "car": "-",
+      "bank": "-",
+      "account": "-",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "x8l3poch1cgm",
+      "name": "탁대만",
+      "branch": "광주",
+      "login": "delivery02",
+      "password": "delivery02",
+      "phone": "010-2588-8538",
+      "car": "-",
+      "bank": "우리은행",
+      "account": "1002-7499-0093-3",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "thr8bee91cgm",
+      "name": "이용범",
+      "branch": "광주",
+      "login": "delivery03",
+      "password": "delivery01",
+      "phone": "010-2643-2080",
+      "car": "-",
+      "bank": "농협",
+      "account": "442-12-013080",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "vhe5otvr1cgm",
+      "name": "김승철",
+      "branch": "광주",
+      "login": "delivery04",
+      "password": "delivery04",
+      "phone": "010-2629-1545",
+      "car": "-",
+      "bank": "새마을금고",
+      "account": "2434-0900-3372-4",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "6rc6jk3m1cgm",
+      "name": "김성찬",
+      "branch": "광주",
+      "login": "delivery05",
+      "password": "delivery05",
+      "phone": "010-8561-9521",
+      "car": "-",
+      "bank": "농협",
+      "account": "301-7543-1432-81",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "f4xk8vb71cgm",
+      "name": "민승환",
+      "branch": "광주",
+      "login": "delivery06",
+      "password": "delivery06",
+      "phone": "010-5911-5412",
+      "car": "-",
+      "bank": "광주은행",
+      "account": "1121-0324-7475-2",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "qwzw6tcq1cgm",
+      "name": "강민우",
+      "branch": "광주",
+      "login": "delivery07",
+      "password": "delivery07",
+      "phone": "010-9130-2747",
+      "car": "-",
+      "bank": "농협은행",
+      "account": "352-1454-8870-93",
+      "note": "보류",
+      "authority": "driver"
+    },
+    {
+      "id": "sqvxqr591cgm",
+      "name": "TEST",
+      "branch": "광주",
+      "login": "delivery99",
+      "password": "delivery99",
+      "phone": "010-4914-6432",
+      "car": "-",
+      "bank": "새마을금고",
+      "account": "9003-2074-8522-3",
+      "note": "활동",
+      "authority": "driver"
+    },
+    {
+      "id": "f8v0lt6qurtb",
+      "authority": "headquarters",
+      "note": "활동",
+      "name": "전정현",
+      "branch": "광주",
+      "login": "admin",
+      "password": "05tkfkd18!@",
+      "phone": "010-4914-6432",
+      "car": "58마4773",
+      "bank": "새마을금고",
+      "account": "9003-2074-8522-3"
+    }
+  ]
+}

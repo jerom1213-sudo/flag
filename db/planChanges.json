@@ -1,0 +1,114 @@
+{
+  "planChanges": [
+    {
+      "id": "rz0xxz4u6hxt",
+      "at": "2026-07-08T11:09:10.865Z",
+      "clientId": "61x9m0f7s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 25000,
+      "after": 30000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "78s3ro8k6zr7",
+      "at": "2026-07-08T11:09:33.955Z",
+      "clientId": "61x9m0f7s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 30000,
+      "after": 25000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "zy5oudg1pq5t",
+      "at": "2026-07-08T11:24:07.985Z",
+      "clientId": "z9zjpp03s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 16000,
+      "after": 11000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "mhtgw57epxak",
+      "at": "2026-07-08T11:24:17.228Z",
+      "clientId": "es64h1xus53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 16000,
+      "after": 12000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "su3j85kxq5pd",
+      "at": "2026-07-08T11:24:28.129Z",
+      "clientId": "htmll6b2s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 25000,
+      "after": 13000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "ecfgh363qbwu",
+      "at": "2026-07-08T11:24:36.174Z",
+      "clientId": "61x9m0f7s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 25000,
+      "after": 14000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "ywpahcduqldt",
+      "at": "2026-07-08T11:24:48.449Z",
+      "clientId": "z9zjpp03s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 11000,
+      "after": 15000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "ywlzg1r2s7zx",
+      "at": "2026-07-08T11:26:04.413Z",
+      "clientId": "61x9m0f7s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 14000,
+      "after": 25000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "tekq8d22skjh",
+      "at": "2026-07-08T11:26:20.669Z",
+      "clientId": "z9zjpp03s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 15000,
+      "after": 16000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "jeglzxipsyqf",
+      "at": "2026-07-08T11:26:39.063Z",
+      "clientId": "es64h1xus53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 12000,
+      "after": 16000,
+      "actor": "본사 관리자"
+    },
+    {
+      "id": "t2bvkwz3toap",
+      "at": "2026-07-08T11:27:12.193Z",
+      "clientId": "htmll6b2s53r",
+      "type": "funeral",
+      "region": "광주광역시",
+      "before": 13000,
+      "after": 25000,
+      "actor": "본사 관리자"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "id": "61x9m0f7s53r",
+      "name": "신용정보협회회장윤영덕",
+      "login": "client01",
+      "password": "client01",
+      "manager": "ㅇ",
+      "phone": "-",
+      "email": "-",
+      "signedAt": "",
+      "renewedAt": "",
+      "invoice": "-"
+    },
+    {
+      "id": "htmll6b2s53r",
+      "name": "진보당 전종덕 국회의원",
+      "login": "client02",
+      "password": "client02",
+      "manager": "윤주영",
+      "phone": "010-4622-9452",
+      "email": "jeonjd7877@gmail.com",
+      "signedAt": "",
+      "renewedAt": "",
+      "invoice": "711129-2657123"
+    },
+    {
+      "id": "z9zjpp03s53r",
+      "name": "민주당 정진욱 국회의원",
+      "login": "client03",
+      "password": "client03",
+      "manager": "박대현",
+      "phone": "010-3628-1514",
+      "email": "chungco518@gmail.com",
+      "signedAt": "",
+      "renewedAt": "",
+      "invoice": "641020 1659324"
+    },
+    {
+      "id": "es64h1xus53r",
+      "name": "민주당 임문영 국회의원",
+      "login": "client04",
+      "password": "client04",
+      "manager": "최은영",
+      "phone": "010-8990-3672",
+      "email": "choiyun527@gmail.com",
+      "signedAt": "",
+      "renewedAt": "",
+      "invoice": "660507-1558514"
+    }
+  ]
+}
