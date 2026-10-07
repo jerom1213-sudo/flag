@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: seogu-plan-collector
+    runtime: node
+    plan: free
+    region: singapore
+    rootDir: collector
+    buildCommand: node --check server.mjs
+    startCommand: node server.mjs
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: COLLECTOR_TOKEN
+        sync: false
